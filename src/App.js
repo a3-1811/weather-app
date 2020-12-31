@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 const API = {
-  baseURL: "http://api.openweathermap.org/data/2.5/weather",
+  baseURL: "https://api.openweathermap.org/data/2.5/weather",
   apiKey: "635dea70eab7fb3ee6f73c71d33f6dbe",
 };
 const App = () => {
